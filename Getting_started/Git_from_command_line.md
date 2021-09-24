@@ -1,8 +1,10 @@
+```bash 
 mkdir my-repo
-```git
+```
 # create a new directory, and initialize it with git-specific functions
+```git
 git init my-repo
-
+```
 # change into the `my-repo` directory
 cd my-repo
 
